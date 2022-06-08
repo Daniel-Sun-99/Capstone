@@ -43,7 +43,7 @@ def roi2rect(img_name, img_np, img_data, label_list):
         index = int(np.where(label_array == np.float(1))[0])
         label = label_list[index]
 
-        # color = tuple(map(int, np.uint8(np.random.uniform(0, 255, 3))))
+        #color = tuple(map(int, np.uint8(np.random.uniform(0, 255, 3))))
         color = colors[index]
         cv2.rectangle(img_np, pmin, pmax, color, 2)
 
