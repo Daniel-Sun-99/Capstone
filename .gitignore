@@ -3,3 +3,6 @@ images/
 
 #ignore annotations folder
 annot/
+
+#ignore
+savedModels/
