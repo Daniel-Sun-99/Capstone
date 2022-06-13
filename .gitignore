@@ -9,6 +9,3 @@ savedModels/
 
 #ignore effnet testing pyscript file
 test.py
-
-#ignore failed effnet notebook
-effNet.ipynb
