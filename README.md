@@ -1,7 +1,7 @@
 # Capstone Project of General Assembly Data Science Immersive Bootcamp -- Daniel Sun
 
 ## Overview
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the culmination of my time at General Assembly's Data Science Immersive program, I decided on training and fitting a model to predict the location of cancerous masses within a given image. Within this project I utilized my knowledge of convolutional neural networks, data visualisation, and model validation and analysis. The dataset chosen for this project is a public dataset from the Cancer Imaging Archive under the name [A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis (Lung-PET-CT-Dx)] (https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216#70224216bcab02c187174a288dbcbf95d26179e8). The packages used consist of numpy, matplotlib, tensorflow's keras, and sklearn.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the culmination of my time at General Assembly's Data Science Immersive program, I decided on training and fitting a model to predict the location of cancerous masses within a given image. Within this project I utilized my knowledge of convolutional neural networks, data visualisation, and model validation and analysis. The dataset chosen for this project is a public dataset from the Cancer Imaging Archive under the name [A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis (Lung-PET-CT-Dx)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216#70224216bcab02c187174a288dbcbf95d26179e8). The packages used consist of numpy, matplotlib, tensorflow's keras, and sklearn.
 
 ------
 
